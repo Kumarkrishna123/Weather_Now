@@ -1,16 +1,23 @@
  # weather_now
 
-A new Flutter project.
+A Flutter-based weather application that provides real-time weather updates and forecasts.
 
-## Getting Started
+📱 Features
 
-This project is a starting point for a Flutter application.
+Current Weather: Displays the current temperature, humidity, wind speed, and weather conditions.
 
-A few resources to get you started if this is your first Flutter project:
+7-Day Forecast: Provides a 7-day weather forecast with daily high and low temperatures.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Hourly Forecast: Shows hourly weather updates for the next 24 hours.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Responsive Design: Optimized for various screen sizes, ensuring a seamless experience across devices.
+
+🛠️ Technologies Used
+
+Frontend: Flutter
+
+API: OpenWeatherMap API for fetching weather data
+
+State Management: Provider (if used)
+
+UI: Material Design components
